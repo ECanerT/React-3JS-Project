@@ -1,0 +1,9 @@
+.speech-to-button:hover{
+    box-shadow: 3px 3px 4px 4px rgb(106, 7, 7);
+    background-color: brown;
+}
+
+.speech-to-button:active{
+    box-shadow: 2px 2px 2px 2px red;
+    background-color: brown;
+}

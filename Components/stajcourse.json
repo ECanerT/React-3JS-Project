@@ -1,0 +1,217 @@
+{"courses": [
+
+    {
+        "id": 1,
+        "day":"20 Haziran",
+        "title":"React'a Giriş",
+        "topic":"React Hakkında bilgiler ve React'ın Kurulumu",
+        "link": "/hello_world"
+    },
+    {
+        "id": 2,
+        "day":"21 Haziran",
+        "title":"Reactstrap",
+        "topic":"Reactstrap kullanılarak bir Tavuk Menüsü hazırlama",
+        "link": "/menu"
+    },
+    {
+        "id": 3,
+        "day":"22 Haziran",
+        "title":"JSON Veritabanı",
+        "topic":"JSON veritabını kurulumu ve örnek üzerinde kullanımı",
+        "link": "/menu"
+    },
+    {
+        "id": 4,
+        "day":"23 Haziran",
+        "title":"React Props",
+        "topic":"React'ta Props kullanarak veri gönderme",
+        "link": "/products"
+    },
+    {
+        "id": 5,
+        "day":"24 Haziran",
+        "title":"React State",
+        "topic":"React'ta State kullanarak veri değiştirme",
+        "link": "/products"
+    },
+    {
+        "id": 6,
+        "day":"27 Haziran",
+        "title":"React Eventleri",
+        "topic":"React Eventlerinin kullanımı, OnClick Eventi ve sayaç yapımı",
+        "link": "/products"
+    },
+    {
+        "id": 7,
+        "day":"28 Haziran",
+        "title":"Life Cycle",
+        "topic":"React'ın Yaşam Döngüleri hakkında genel bilgi",
+        "link": "/products"
+    },
+    {
+        "id": 8,
+        "day":"29 Haziran",
+        "title":"LifeCycle Mounting",
+        "topic":"Mounting Yaşam Döngüsü : Constructor, render, componentDidMount",
+        "link": "/products"
+    },
+    {
+        "id": 9,
+        "day":"30 Haziran",
+        "title":"LifeCycle Updating",
+        "topic":"Updating Yaşam Döngüsü : getDerivedStateFromProps, shouldComponentUpdate, componentDidUpdate",
+        "link": "/products"
+    },
+    {
+        "id": 10,
+        "day":"1 Temmuz",
+        "title":"LifeCycle Unmounting",
+        "topic":"Unmounting Yaşam Döngüsü : componentWillUnmount",
+        "link": "/products"
+    },
+    {
+        "id": 11,
+        "day":"4 Temmuz",
+        "title":"LifeCycle Unmounting",
+        "topic":"Unmounting Yaşam Döngüsü : componentWillUnmount",
+        "link": "/products"
+    },
+    {
+        "id": 12,
+        "day":"4 Temmuz",
+        "title":"Fonksiyonlar ve Hooklar",
+        "topic":"Fonksiyonlar Hook Nedir? Fonksiyonlar ve Sınıflar arasındaki farklar",
+        "link": "/products"
+    },
+    {
+        "id": 13,
+        "day":"5 Temmuz",
+        "title":"Fonksiyonlar: useState",
+        "topic":"Fonksiyonlarda useState Hook'u kullanımı ve Class'dan farkı",
+        "link": "/products"
+    },
+    {
+        "id": 14,
+        "day":"6 Temmuz",
+        "title":"useEffect ve React'ta ThreeJS",
+        "topic":"Fonksiyonlarda useEffect Hook'u kullanımı, Class'dan farkı ve ThreeJS kullanarak React'ta Küp oluşturma",
+        "link": "/threejs"
+    },
+    {
+        "id": 15,
+        "day":"7 Temmuz",
+        "title":"Fonksiyonlar: useContext",
+        "topic":"Fonksiyonlarda useContext Hook'u Nedir, kullanımı ve İşlevi",
+        "link": "/products"
+    },
+    {
+        "id": 16,
+        "day":"8 Temmuz",
+        "title":"Fonksiyonlar: useRef",
+        "topic":"Fonksiyonlarda useRef Hook'u Nedir, Kullanımı ve İşlevi",
+        "link": "/products"
+    },
+    {
+        "id": 17,
+        "day":"18 Temmuz",
+        "title":"Fonksiyonlar: Diğer Hooklar",
+        "topic":"Fonksiyonlarda useReduce, useMemo ve useCallback Hooklarının kullanımı ve İşlevi",
+        "link": "/products"
+    },
+    {
+        "id": 18,
+        "day":"19 Temmuz",
+        "title":"React Üye Görüntüleme",
+        "topic":"Hazır rastgele Sunucudan üyelerin bilgilerini çekip ekrana bastırma",
+        "link": "/products"
+    },
+    {
+        "id": 19,
+        "day":"20 Temmuz",
+        "title":"React Üye Görüntüleme 2",
+        "topic":"Hazır rastgele Sunucudan üyelerin bilgilerini çekip ekrana bastırma",
+        "link": "/products"
+    },
+    {
+        "id": 20,
+        "day":"21 Temmuz",
+        "title":"React Alışveriş Uygulaması",
+        "topic":"Bir menü oluşturarak sabit bakiyeden seçilen ürünlerin sepette tutarlarını bulup bakiyeden çıkarma",
+        "link": "/products"
+    },
+    {
+        "id": 21,
+        "day":"22 Temmuz",
+        "title":"React Router",
+        "topic":"Router Nedir, Kullanımı ve Sayfa yönledirme Uygulaması",
+        "link": "/products"
+    },
+    {
+        "id": 22,
+        "day":"26 Temmuz",
+        "title":"React Native Giriş",
+        "topic":"React Native Kurulumu ve Hello World",
+        "link": "/products"
+    },
+    {
+        "id": 23,
+        "day":"27 Temmuz",
+        "title":"React Native: View ve Text",
+        "topic":"React Native'de yazı bastırma ve görüntüleme için kullanılan Text ve View Kullanımı",
+        "link": "/products"
+    },
+    {
+        "id": 24,
+        "day":"28 Temmuz",
+        "title":"React Native: Input, Button ve ScrollView",
+        "topic":"React Native'de yazı girişi, tuş oluşturme ve kaydırmalı ekran kullanımı",
+        "link": "/products"
+    },
+    {
+        "id": 25,
+        "day":"29 Temmuz",
+        "title":"React Native: Input, Button ve ScrollView",
+        "topic":"React Native'de yazı girişi, tuş oluşturme ve kaydırmalı ekran kullanımı",
+        "link": "/products"
+    }
+    ,
+    {
+        "id": 26,
+        "day":"01 Ağustos",
+        "title":"Blender Yüz ve Rig oluşturma",
+        "topic":"Blender kullanarak İnsan Yüzü oluşturup canlandırma",
+        "link": "/project"
+    },
+    {
+        "id": 27,
+        "day":"02 Ağustos",
+        "title":"Blender ile Yüz ifadeleri için Rig Oluşturma",
+        "topic":"Blender Armature kullanarak Yüz ifadelerini canladırmak için Rig Oluşturma",
+        "link": "/project"
+    },
+    {
+        "id": 28,
+        "day":"03 Ağustos",
+        "title":"Blender ile Ağız Oluşturma",
+        "topic":"Blender Armature kullanarak Yüz ifadelerini canladırmak için Rig Oluşturma",
+        "link": "/project"
+    },
+    {
+        "id": 29,
+        "day":"04 Ağustos",
+        "title":"Blender ile Yüz ifadeleri için Rig Oluşturma",
+        "topic":"Blender Armature kullanarak Yüz ifadelerini canladırmak için Rig Oluşturma",
+        "link": "/project"
+    },
+    {
+        "id": 30,
+        "day":"05 Ağustos",
+        "title":"React ile Dudak Okuma Staj Projesi",
+        "topic":"Blender Armature kullanarak Yüz ifadelerini canladırmak için Rig Oluşturma",
+        "link": "/project"
+    }
+
+
+]
+}

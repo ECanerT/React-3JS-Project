@@ -1,0 +1,58 @@
+{"products": [
+{
+    "id": 1,
+    "title": "Ekmek Arası Et Döner",
+    "price": 40,
+    "img": "https://www.seckinlokanta.com/lokanta-icerikler/uploads/2019/07/yarim-ekmek-arasi-doner.jpg"
+},
+{
+    "id": 2,
+    "title": "Porsiyon Et Döner",
+    "price": 70,
+    "img": "https://kalori.web.tr/images/et-doner-kac-kalori.jpg"
+},
+{
+    "id": 3,
+    "title": "Dürüm Tavuk Döner",
+    "price": 25,
+    "img": "https://www.bestofdurum.com/wp-content/uploads/2018/02/k%C3%B6fe-d%C3%BCr%C3%BCm.png"
+},
+{
+    "id": 4,
+    "title": "İskender Kebap",
+    "price": 100,
+    "img": "https://st2.depositphotos.com/1071250/6151/i/450/depositphotos_61513105-stock-photo-turkish-kebab.jpg"
+},
+{
+    "id": 5,
+    "title": "Tatlı",
+    "price": 20,
+    "img": "https://www.snoopypizza.com/yonetim/snoopy/Urun/Kapak/42.png"
+},
+{
+    "id": 6,
+    "title": "Ayran",
+    "price": 5,
+    "img": "https://www.kebirsut.com.tr/cropped/?src=dosyalar/page_144/img_11622538474.png&w=620&h=400"
+},
+{
+    "id": 7,
+    "title": "Kola",
+    "price": 7.5,
+    "img": "https://cdn03.ciceksepeti.com/cicek/kc5614329-1/XL/coca-cola-kutu-330ml---24-lu--kc5614329-1-84b04b494fed43adb5b53aebac14ebfc.jpg"
+},
+{
+    "id": 8,
+    "title": "Şekersiz Kola",
+    "price": 7.5,
+    "img": "https://cdn03.ciceksepeti.com/cicek/kc5614329-1/XL/coca-cola-kutu-330ml---24-lu--kc5614329-1-84b04b494fed43adb5b53aebac14ebfc.jpg"
+},
+{
+    "id": 9,
+    "title": "Poşet",
+    "price": 0.5,
+    "img": "https://st3.myideasoft.com/shop/bc/36/myassets/products/580/hisir-poset-05.jpg"
+}
+  
+
+]}

@@ -1,0 +1,20 @@
+.ModelLoad{
+    width: auto;
+}
+
+.Modelbox{
+    float:left;
+    margin-right: 105px;
+    width: 55%;
+}
+.canvas{
+    height:'800px';
+    width:'950px';
+    background: "#171717";
+    border-radius: 10%;
+    border: 2px white solid;
+}
+.modelOptions{
+    width: 32.5%;
+    float:right;
+}

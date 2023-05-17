@@ -1,0 +1,29 @@
+.Alphabet{
+    background-color:'#f6f9ff';
+    border-radius:'5%'
+}
+
+.alphabet-A{
+    float: left;
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 15px;
+    background-color: rgb(165, 188, 236);
+    color: aliceblue;
+    border: none;
+    width: 31px;
+    height: 40px;
+}
+
+.alphabet-A:hover
+{
+    float: left;
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 15px;
+    background-color: rgb(0, 81, 255);
+    color: aliceblue;
+    border: none;
+    width: 31px;
+    height: 40px;
+}

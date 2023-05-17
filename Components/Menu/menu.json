@@ -1,0 +1,106 @@
+{
+    "categories": [
+        {
+            "id":1,
+            "categoryName": "Pilavlar",
+            "seoUrl": "pilavlar"
+        },
+        {
+            "id":2,
+            "categoryName": "Zeytin Yağlılar",
+            "seoUrl": "zeytinyaglilar"
+        },
+        {
+            "id":3,
+            "categoryName": "Çorbalar",
+            "seoUrl": "corbalar"
+        },
+        {
+            "id":4,
+            "categoryName": "Sulu Yemekler",
+            "seoUrl": "suluyemekler"
+        },
+        {
+            "id":5,
+            "categoryName": "Tatlılar",
+            "seoUrl": "tatlilar"
+        },
+        {
+            "id":6,
+            "categoryName": "İçecekler",
+            "seoUrl": "icecekler"
+        },
+        {
+            "id":7,
+            "categoryName": "Soslar",
+            "seoUrl": "soslar"
+        }
+
+        ,
+        {
+            "id":8,
+            "categoryName": "Ek Lezzetler ve Yan Ürünler",
+            "seoUrl": "eklezzetlerveyanurunler"
+        },
+        {
+            "id":0,
+            "categoryName": "",
+            "seoUrl": ""
+        }
+    ],
+
+    "products": [
+        {
+            "id": 1,
+            "categoryId": 1,
+            "productName": "Pilav Türleri",
+            "productImage" : "https://www.gizlitarif.com/wp-content/uploads/2017/12/pilav.jpg"
+        },
+        {
+            "id": 2,
+            "categoryId": 2,
+            "productName": "Zeytin Yağlı Sarma",
+            "productImage" : "https://i4.hurimg.com/i/hurriyet/75/1200x675/5b645cde66be5d25a0c1e13c.jpg"
+        },
+        {
+            "id": 3,
+            "categoryId": 3,
+            "productName": "Çorbalar",
+            "productImage" : "https://cdn.bolgegundem.com/d/news/977571.jpg"
+        },
+        {
+            "id": 4,
+            "categoryId": 4,
+            "productName": "Sulu Yemekler",
+            "productImage" : "https://i20.haber7.net/resize/1300x788//haber/haber7/photos/2022/14/en_kolay_sulu_yemek_tarifleri_herkesin_mutlaka_bilmesi_gereken_pratik_yemekler_1649078214_7024.jpg"
+        },
+        {
+            "id": 5,
+            "categoryId": 5,
+            "productName": "Tatlılar",
+            "productImage" : "https://cdn.getiryemek.com/restaurants/1620658138209_1125x522.jpeg"
+        },
+        {
+            "id": 6,
+            "categoryId": 6,
+            "productName": "İçecekler",
+            "productImage" : "https://www.kahvemolasi.com/wp-content/uploads/2017/11/Selection.jpg"
+        },
+        {
+            "id": 7,
+            "categoryId": 7,
+            "productName": "Mezeler",
+            "productImage" : "https://i4.hurimg.com/i/hurriyet/75/1200x675/59a542fdd3806c27ccd131d4.jpg"
+        },
+        {
+            "id": 8,
+            "categoryId": 8,
+            "productName": "1 Parça Göğüs",
+            "productImage" : "https://www.popeyes.com.tr/cmsfiles/products/1-parca-gogus-1.png?v=133"
+        }
+
+        
+
+
+    ]
+}
